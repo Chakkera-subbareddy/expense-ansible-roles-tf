@@ -1,4 +1,5 @@
 MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.daws82s.xyz"
+#MYSQL_HOST: mysql.daws82s.xyz
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCATION: /app
